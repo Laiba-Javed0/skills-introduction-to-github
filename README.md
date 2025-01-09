@@ -6,7 +6,7 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-#👋: Hi there! I'm Laiba Javed
+# 👋: Hi there! I'm Laiba Javed
 
 </header>
 
@@ -20,37 +20,38 @@
 
 _You created a branch! _
 
-I'm an undergraduate student passionate about Artificial Intelligence and its potential to transform our world. Currently exploring the vast landscape of AI/ML while building projects that matter :tada:
+I'm an undergraduate student passionate about Artificial Intelligence and its potential to transform our world. Currently exploring the vast landscape of AI/ML while building projects that matter.
 
 ### ✨: Currently Learning
 
-Deep Learning architectures and frameworks
-Natural Language Processing
-Computer Vision Applications
-Machine Learning Algorithms
-Data Science & Analytics
+*Deep Learning architectures and frameworks
+*Natural Language Processing
+*Computer Vision Applications
+*Machine Learning Algorithms
+*Data Science & Analytics
 
 ### :computer: Tech Stack
-my_tech_stack = {
-    'Programming': ['Python', 'Java', 'C++'],
-    'ML/DL Frameworks': ['TensorFlow', 'PyTorch', 'scikit-learn'],
-    'Data Analysis': ['Pandas', 'NumPy', 'Matplotlib'],
-    'Development Tools': ['Leetcode', 'Anaconda', 'VS Code'],
-    'Interests': ['AI Ethics', 'Neural Networks', 'Computer Vision']
+my_tech_stack = 
+{
+    -'Programming': ['Python', 'Java', 'C++'],
+    -'ML/DL Frameworks': ['TensorFlow', 'PyTorch', 'scikit-learn'],
+    -'Data Analysis': ['Pandas', 'NumPy', 'Matplotlib'],
+    -'Development Tools': ['Leetcode', 'Anaconda', 'VS Code'],
+    -'Interests': ['AI Ethics', 'Neural Networks', 'Computer Vision']
 }
 ### 🎯: Goals for 2025
 
- Contribute to open-source AI projects
- Build a comprehensive portfolio of ML projects
- Learn and implement advanced AI architectures
- Collaborate with fellow AI enthusiasts
- Master deployment of ML models
+ :white_medium_small_square:Contribute to open-source AI projects
+ :white_medium_small_square:Build a comprehensive portfolio of ML projects
+ :white_medium_small_square: Learn and implement advanced AI architectures
+ :white_medium_small_square:Collaborate with fellow AI enthusiasts
+ :white_medium_small_square:Master deployment of ML models
 <footer>
 ### 💡: Fun Fact
-I believe AI is not just about coding, but about creating solutions that can make a positive impact on society!
+_I believe AI is not just about coding, but about creating solutions that can make a positive impact on society!_
 
-### :star: From Laiba Javed
-**"The future belongs to those who learn more skills and combine them in creative ways." - Robert Greene**
+### > [!TIP]
+>**"The future belongs to those who learn more skills and combine them in creative ways." - Robert Greene**
 
 <!--
   <<< Author notes: Footer >>>
